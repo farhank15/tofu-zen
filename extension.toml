@@ -1,0 +1,7 @@
+id = "tofu-zen-theme"
+name = "Tofu Zen"
+version = "0.0.1"
+schema_version = 1
+authors = ["farhank15 <ahmadfarhankholik01@gmail.com>"]
+description = "A minimal zen-inspired theme for Zed"
+repository = "https://github.com/farhank15/tofu-zen"

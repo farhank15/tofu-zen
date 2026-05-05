@@ -1,0 +1,17 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Tofu Zen",
+  "author": "farhank15",
+  "themes": [
+    {
+      "name": "Tofu Zen Dark",
+      "appearance": "dark",
+      "style": {
+        "background": "#1a1a2e",
+        "foreground": "#e0e0e0",
+        "editor.background": "#1a1a2e",
+        "editor.foreground": "#e0e0e0"
+      }
+    }
+  ]
+}
