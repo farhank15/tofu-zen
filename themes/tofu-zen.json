@@ -7,13 +7,7 @@
       "name": "Tofu Zen Wood",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#ffcc8066",
-          "#c5e1a566",
-          "#90caf966",
-          "#ffab9166",
-          "#ffe08266"
-        ],
+        "accents": ["#ffcc8066", "#c5e1a566", "#90caf966", "#ffab9166", "#ffe08266"],
         "background.appearance": "opaque",
         "border": "#211f1c",
         "border.variant": "#211f1c",
@@ -46,20 +40,22 @@
         "created": "#c5e1a5",
         "deleted": "#f48fb1",
         "error": "#ef5350",
-        "error.border": "#ef535066",
+        "error.background": "#ef535014",
+        "error.border": "#ef53504d",
         "warning": "#ffca28",
-        "warning.border": "#ffca2866",
+        "warning.background": "#ffca2814",
+        "warning.border": "#ffca284d",
         "info": "#4fc3f7",
-        "info.border": "#4fc3f766",
+        "info.background": "#4fc3f714",
+        "info.border": "#4fc3f74d",
+        "hint": "#968d7d",
+        "hint.background": "#968d7d14",
+        "hint.border": "#968d7d4d",
+        "element.hover": "#ffcc801a",
+        "ghost_element.hover": "#ffcc801a",
         "predictive": "#968d7d88",
         "tab.dirty_indicator": "#ffcc80",
-        "players": [
-          {
-            "cursor": "#ffcc80",
-            "background": "#ffcc80",
-            "selection": "#ffcc8033"
-          }
-        ],
+        "players": [{"cursor": "#ffcc80", "background": "#ffcc80", "selection": "#ffcc8033"}],
         "syntax": {
           "attribute": { "color": "#ce93d8" },
           "boolean": { "color": "#ffe082", "font_weight": 700 },
@@ -69,11 +65,7 @@
           "function": { "color": "#90caf9" },
           "function.method": { "color": "#90caf9", "font_style": "italic" },
           "keyword": { "color": "#ffcc80", "font_style": "italic" },
-          "keyword.control": {
-            "color": "#ffcc80",
-            "font_style": "italic",
-            "font_weight": 700
-          },
+          "keyword.control": { "color": "#ffcc80", "font_style": "italic", "font_weight": 700 },
           "number": { "color": "#ffe082" },
           "operator": { "color": "#80deea" },
           "punctuation": { "color": "#524d45" },
@@ -90,13 +82,7 @@
       "name": "Tofu Zen Zamrud",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#b2dfdb66",
-          "#fff59d66",
-          "#ffab9166",
-          "#80cbc466",
-          "#a5d6a766"
-        ],
+        "accents": ["#b2dfdb66", "#fff59d66", "#ffab9166", "#80cbc466", "#a5d6a766"],
         "background.appearance": "opaque",
         "border": "#1a2421",
         "border.variant": "#1a2421",
@@ -129,20 +115,22 @@
         "created": "#a5d6a7",
         "deleted": "#ffab91",
         "error": "#ff8a65",
-        "error.border": "#ff8a6566",
+        "error.background": "#ff8a6514",
+        "error.border": "#ff8a654d",
         "warning": "#ffd54f",
-        "warning.border": "#ffd54f66",
+        "warning.background": "#ffd54f14",
+        "warning.border": "#ffd54f4d",
         "info": "#4db6ac",
-        "info.border": "#4db6ac66",
+        "info.background": "#4db6ac14",
+        "info.border": "#4db6ac4d",
+        "hint": "#8a9c94",
+        "hint.background": "#8a9c9414",
+        "hint.border": "#8a9c944d",
+        "element.hover": "#80cbc41a",
+        "ghost_element.hover": "#80cbc41a",
         "predictive": "#8a9c9488",
         "tab.dirty_indicator": "#80cbc4",
-        "players": [
-          {
-            "cursor": "#80cbc4",
-            "background": "#80cbc4",
-            "selection": "#80cbc433"
-          }
-        ],
+        "players": [{"cursor": "#80cbc4", "background": "#80cbc4", "selection": "#80cbc433"}],
         "syntax": {
           "attribute": { "color": "#e1bee7" },
           "boolean": { "color": "#fff59d", "font_weight": 700 },
@@ -152,11 +140,7 @@
           "function": { "color": "#ffab91" },
           "function.method": { "color": "#ffab91", "font_style": "italic" },
           "keyword": { "color": "#80cbc4", "font_style": "italic" },
-          "keyword.control": {
-            "color": "#80cbc4",
-            "font_style": "italic",
-            "font_weight": 700
-          },
+          "keyword.control": { "color": "#80cbc4", "font_style": "italic", "font_weight": 700 },
           "number": { "color": "#fff59d" },
           "operator": { "color": "#b2dfdb" },
           "punctuation": { "color": "#45544e" },
@@ -173,13 +157,7 @@
       "name": "Tofu Zen Deep",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#f0b67f66",
-          "#98d6a866",
-          "#89c9e866",
-          "#e8a88966",
-          "#f0d68966"
-        ],
+        "accents": ["#f0b67f66", "#98d6a866", "#89c9e866", "#e8a88966", "#f0d68966"],
         "background.appearance": "opaque",
         "border": "#262b33",
         "border.variant": "#262b33",
@@ -211,21 +189,23 @@
         "conflict": "#bca3cc",
         "created": "#98d6a8",
         "deleted": "#e8a889",
-        "error": "#e8a889",
-        "error.border": "#e8a88966",
+        "error": "#ef5350",
+        "error.background": "#ef535014",
+        "error.border": "#ef53504d",
         "warning": "#f0b67f",
-        "warning.border": "#f0b67f66",
+        "warning.background": "#f0b67f14",
+        "warning.border": "#f0b67f4d",
         "info": "#89c9e8",
-        "info.border": "#89c9e866",
+        "info.background": "#89c9e814",
+        "info.border": "#89c9e84d",
+        "hint": "#a0aab8",
+        "hint.background": "#a0aab814",
+        "hint.border": "#a0aab84d",
+        "element.hover": "#89c9e81a",
+        "ghost_element.hover": "#89c9e81a",
         "predictive": "#a0aab888",
         "tab.dirty_indicator": "#f0b67f",
-        "players": [
-          {
-            "cursor": "#f0b67f",
-            "background": "#f0b67f",
-            "selection": "#f0b67f33"
-          }
-        ],
+        "players": [{"cursor": "#f0b67f", "background": "#f0b67f", "selection": "#f0b67f33"}],
         "syntax": {
           "attribute": { "color": "#bca3cc" },
           "boolean": { "color": "#f0d689", "font_weight": 700 },
@@ -234,11 +214,7 @@
           "function": { "color": "#89c9e8" },
           "function.method": { "color": "#89c9e8", "font_style": "italic" },
           "keyword": { "color": "#f0b67f", "font_style": "italic" },
-          "keyword.control": {
-            "color": "#f0b67f",
-            "font_style": "italic",
-            "font_weight": 700
-          },
+          "keyword.control": { "color": "#f0b67f", "font_style": "italic", "font_weight": 700 },
           "number": { "color": "#f0d689" },
           "operator": { "color": "#89e8d6" },
           "punctuation": { "color": "#5c6673" },
@@ -255,13 +231,7 @@
       "name": "Tofu Zen Butter",
       "appearance": "light",
       "style": {
-        "accents": [
-          "#d9770666",
-          "#15803d66",
-          "#1d4ed866",
-          "#b91c1c66",
-          "#7e22ce66"
-        ],
+        "accents": ["#d9770666", "#15803d66", "#1d4ed866", "#b91c1c66", "#7e22ce66"],
         "background.appearance": "opaque",
         "border": "#e8e4d8",
         "border.variant": "#e8e4d8",
@@ -294,20 +264,22 @@
         "created": "#15803d",
         "deleted": "#b91c1c",
         "error": "#b91c1c",
-        "error.border": "#b91c1c66",
+        "error.background": "#b91c1c0d",
+        "error.border": "#b91c1c4d",
         "warning": "#d97706",
-        "warning.border": "#d9770666",
+        "warning.background": "#d977060d",
+        "warning.border": "#d977064d",
         "info": "#1d4ed8",
-        "info.border": "#1d4ed866",
+        "info.background": "#1d4ed80d",
+        "info.border": "#1d4ed84d",
+        "hint": "#7a7167",
+        "hint.background": "#7a716714",
+        "hint.border": "#7a71674d",
+        "element.hover": "#d977061a",
+        "ghost_element.hover": "#d977061a",
         "predictive": "#a69e8d88",
         "tab.dirty_indicator": "#d97706",
-        "players": [
-          {
-            "cursor": "#d97706",
-            "background": "#d97706",
-            "selection": "#d9770633"
-          }
-        ],
+        "players": [{"cursor": "#d97706", "background": "#d97706", "selection": "#d9770633"}],
         "syntax": {
           "attribute": { "color": "#7e22ce" },
           "boolean": { "color": "#ea580c", "font_weight": 700 },
@@ -317,11 +289,7 @@
           "function": { "color": "#1d4ed8" },
           "function.method": { "color": "#1d4ed8", "font_style": "italic" },
           "keyword": { "color": "#d97706", "font_style": "italic" },
-          "keyword.control": {
-            "color": "#d97706",
-            "font_style": "italic",
-            "font_weight": 700
-          },
+          "keyword.control": { "color": "#d97706", "font_style": "italic", "font_weight": 700 },
           "number": { "color": "#ea580c" },
           "operator": { "color": "#0891b2" },
           "punctuation": { "color": "#a69e8d" },
